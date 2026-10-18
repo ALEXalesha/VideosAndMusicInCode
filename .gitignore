@@ -1,0 +1,11 @@
+node_modules/
+# rendered output never goes into git
+*.mp4
+*.wav
+*.log
+*.png
+preview/
+preview*/
+check/
+parts.txt
+splice_*.txt

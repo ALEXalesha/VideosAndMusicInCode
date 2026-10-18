@@ -1,0 +1,11 @@
+{
+  "name": "videos-and-music-in-code",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Films and music made entirely in code: shaders and canvas rendered in headless Chromium, sound synthesized in JavaScript",
+  "author": "ALEXalesha",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
