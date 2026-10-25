@@ -1,3 +1,5 @@
+<div align="center">
+
 # Videos and Music in Code
 
 Two films and seven pieces of music made entirely in code. No video editor, no 3D package, no samples, no stock footage:
@@ -9,6 +11,8 @@ JavaScript, and the picture and the music read the same timeline.
 [![Status](https://img.shields.io/badge/status-in_development-orange)](#) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
+
+</div>
 
 **What is here:** the source code and poster frames. The finished videos stay out of git (a film is 1.9-2.4 GB in 1080p
 60 fps and 5.5-7.4 GB in 4K 240 fps; a piece of music is 50-80 MB) and are not uploaded yet. A third film, "Alexey's Projects 2026", is still in progress and is not

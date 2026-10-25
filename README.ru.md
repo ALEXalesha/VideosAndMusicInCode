@@ -1,3 +1,5 @@
+<div align="center">
+
 # Видео и музыка кодом
 
 Два фильма и семь музыкальных пьес, сделанные целиком кодом. Без видеоредактора, 3D-пакета, сэмплов и стоковых кадров:
@@ -9,6 +11,8 @@
 [![Status](https://img.shields.io/badge/status-in_development-orange)](#) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 Код, тесты и документация этого проекта написаны Claude (Anthropic) в Claude Code. Идеи, проверка и решения - Алексей.
+
+</div>
 
 **Что здесь лежит:** исходный код и кадры-обложки. Готовые видео в git не кладутся (фильм весит 1,9-2,4 ГБ в 1080p
 60 к/с и 5,5-7,4 ГБ в 4K 240 к/с, пьеса - 50-80 МБ) и пока не выложены. Третий фильм, «Проекты Алексея 2026», ещё в работе, его здесь нет.
